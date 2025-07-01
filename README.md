@@ -14,6 +14,11 @@ To further evaluate the real-world adaptability of the proposed DFFR-Net, we app
   * **Post-processing**: None
 
 * 📷 Example Screenshot:
+![Example Screenshot](./1.png)
+![Example Screenshot](./2.png)
+![Example Screenshot](./3.png)
+
+
 
 Shared via cloud storage: `video detection.mp4`
 
