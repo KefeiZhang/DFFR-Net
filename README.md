@@ -14,9 +14,9 @@ To further evaluate the real-world adaptability of the proposed DFFR-Net, we app
   * **Post-processing**: None
 
 * 📷 Example Screenshot:
-![Example Screenshot](./1.png)
-![Example Screenshot](./2.png)
-![Example Screenshot](./3.png)
+![Example Screenshot](img/1.png)
+![Example Screenshot](img/2.png)
+![Example Screenshot](img/3.png)
 
 
 
